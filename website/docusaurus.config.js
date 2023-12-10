@@ -13,14 +13,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://stakeworld.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/system-parachain-collators',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'spc', // Usually your GitHub org/user name.
+  organizationName: 'stakeworld', // Usually your GitHub org/user name.
   projectName: 'system-parachain-collators', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -45,7 +45,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/stakeworld/system-parachain-collators/edit/master/website',
         },
         blog: false,
           // {
