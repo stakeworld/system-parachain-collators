@@ -15,9 +15,9 @@ From the polkadot wiki:
 
 > By hosting core protocol logic in parachains instead of the Relay Chain, Polkadot uses its own scaling technology -- namely, parallel execution -- to host itself. System parachains remove transactions from the Relay Chain, allowing more Relay Chain blockspace to be used for Polkadot's primary purpose: validating parachains.
 
-A diverse collator set is desired to ensure liveliness and censorship resistance for the networks that they support. This is particularly important for System Parachains as their services can, at the most critical level, be foundational to other Parachains or networks. Poor performance from Collators can lead to longer block times and ultimately a less than ideal user-experience.
+# Collator group
 
-# Collator group funding
+A diverse collator set is desired to ensure liveliness and censorship resistance for the networks that they support. This is particularly important for System Parachains as their services can, at the most critical level, be foundational to other Parachains or networks. Poor performance from Collators can lead to longer block times and ultimately a less than ideal user-experience.
 
 Besides the collators from parity itself there is a group of active and experienced collators which have been providing additional collators for the system parachains. Funding has been done through a bounty and different opengov proposals and as a next step will be again [proposed](https://docs.google.com/document/d/14pRUj8WZPO75DuwDl4HoZU97v_Rmfx0bZ2KFqFW-qkE) as a curated bounty.  
 
