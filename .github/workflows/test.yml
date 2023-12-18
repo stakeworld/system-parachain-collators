@@ -1,30 +1,25 @@
-name: test
-
+name: deploy
 on:
   pull_request:
     branches:
       - master
   workflow_dispatch:
 
-defaults:
-  run:
-    working-directory: ./website
-
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
-        uses: actions/checkout@v3
-      - name: seup node
-        uses: actions/setup-node@v3
+        uses: actions/checkout@v4
+      - name: setup node
+        uses: actions/setup-node@v4
         with:
           node-version: 18
           cache: yarn
+          cache-dependency-path: ./website/yarn.lock
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        working-directory: website
+        run: yarn
       - name: Test build website
+        working-directory: website
         run: yarn build
-
-
-
