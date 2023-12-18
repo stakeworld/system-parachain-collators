@@ -16,4 +16,4 @@ title: Collectives
 | ICEBERG NODES           | OVH                | Gravelines, France     | OVH                  | Strasburgo, France   |
 | COINSTUDIO              | OVH                | Montreal               | OVH                  | London               |
 | MATHCRYPTO              | UK Servers         | Coventry, UK           | Scaleway             | Paris, FR            |
-| STAKER SPACE            | Marbis GmbH        | Frankfurt, Germany     | TeraSwitch Networks  | Pennsylvania, US     |
+| STAKER SPACE            | Marbis GmbH        | Frankfurt, Germany     | Ikoula               | Bezannes, France     |
