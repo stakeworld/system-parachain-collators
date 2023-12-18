@@ -94,7 +94,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'System PArachain Collators',
+                label: 'System Parachain Collators',
                 to: '/',
               },
             ],
