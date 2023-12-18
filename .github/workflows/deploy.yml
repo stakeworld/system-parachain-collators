@@ -6,25 +6,23 @@ on:
       - master
   workflow_dispatch:
 
-defaults:
-  run:
-    working-directory: website
-
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          path: website
       - name: setup node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: 18
           cache: yarn
       - name: Install dependencies
-        run: cd website; yarn
+        run: yarn
       - name: Test build website
-        run: cd website; yarn build
+        run: yarn build
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
