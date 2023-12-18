@@ -16,4 +16,4 @@ title: Bridgehub
 | 🐟YELLOWFIN TUNA🐟     | MEV Space                 | Warsaw                 | GST-Services         | Riverdale Park       |
 | CRIS-STAKING         |                           |                        |                      |                      |
 | MILE                 | MevSpace                  | Warsaw                 | Hurricane Electric   | Riverdale Park       |
-| STAKER SPACE         |                           |                        |                      |                      |
+| STAKER SPACE         | Marbis GmbH               | Frankfurt, Germany     | TeraSwitch Networks  | Pennsylvania, US     |
