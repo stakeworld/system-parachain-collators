@@ -11,7 +11,7 @@ title: Assethub
 | LUCKYFRIDAY.IO       |                           |                        |                      |                      |
 | DPSTK                |                           |                        |                      |                      |
 | SIK \| CRIFFERENT.DE | COLO - Coolhousing s.r.o. | Prague, Czech Republic | Hetzner              | Helsinki, Finland    |
-| METASPAN             |                           |                        |                      |                      |
+| METASPAN             | Own bare metal            | High Wycombe, UK       |                      |                      |
 | POLKADOTTERS         | Own bare metal            | Brno, Czechia          | Ikoula               | France               |
 | YELLOWFIN TUNA       | MEV Space                 | Warsaw                 | GST-Services         | Riverdale Park       |
 | STAKEWORLD.IO        | OVH                       | Limburg, Germany       | Mevspace             | Warsaw               |
