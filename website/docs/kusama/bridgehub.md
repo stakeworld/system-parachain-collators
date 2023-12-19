@@ -14,6 +14,6 @@ title: Bridgehub
 | PARANODES.IO         |                           |                        |                      |                      |
 | LUCKYFRIDAY.IO       |                           |                        |                      |                      |
 | POLKADOTTERS         | Own bare metal            | Brno, Czechia          | Ikoula               | France               |
-| TURBOFLAKES.IO       | Net Solutions             | Lisbon, PT             |                      |                      |
+| TURBOFLAKES.IO       | COLO - Net Solutions      | Lisbon, PT             |                      |                      |
 | STAKEWORLD.IO        | OVH                       | Limburg, Germany       | Mevspace             | Warsaw               |
 | MATHCRYPTO           | Ikoula                    | Eppes, FR              | Scaleway             | Paris, FR            |

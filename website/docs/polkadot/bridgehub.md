@@ -10,7 +10,7 @@ title: Bridgehub
 | STAKEWORLD.IO        | OVH                       | Limburg, Germany       | Mevspace             | Warsaw               |
 | POLKADOTTERS         | Own bare metal            | Brno, Czechia          | Ikoula               | France               |
 | OPENBITLAB           | OVH                       | Limburg, Germany       | Hetzner              | Germany              |
-| TURBOFLAKES.IO       | Net Solutions             | Lisbon, PT             |                      |                      |
+| TURBOFLAKES.IO       | COLO - Net Solutions      | Lisbon, PT             |                      |                      |
 | PARANODES.IO         |                           |                        |                      |                      |
 | LUCKYFRIDAY.IO       |                           |                        |                      |                      |
 | YELLOWFIN TUNA       | MEV Space                 | Warsaw                 | GST-Services         | Riverdale Park       |

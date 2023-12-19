@@ -6,7 +6,7 @@ title: Assethub
 | Operator Name        | Main node provider        | Main Node location     | Backup node provider | Backup node location |
 |----------------------|---------------------------|------------------------|----------------------|----------------------|
 | STAKER SPACE         | Marbis GmbH               | Frankfurt, Germany     | Marbis GmbH          | Frankfurt, Germany   |
-| TURBOFLAKES.IO       | Net Solutions             | Lisbon, PT             |                      |                      |
+| TURBOFLAKES.IO       | COLO - Net Solutions      | Lisbon, PT             |                      |                      |
 | PARANODES.IO         |                           |                        |                      |                      |
 | LUCKYFRIDAY.IO       |                           |                        |                      |                      |
 | DPSTK                |                           |                        |                      |                      |

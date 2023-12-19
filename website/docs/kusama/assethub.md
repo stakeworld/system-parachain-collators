@@ -16,3 +16,4 @@ title: Assethub
 | STAKEWORLD.IO        | OVH                       | Limburg, Germany       | Mevspace             | Warsaw               |
 | Stake Plus           | Own bare metal            | Virginia, USA          | Own bare metal       | Cincinnati, OH       |
 | ICEBERG NODES        | OVH                       | Roubaix, France        | OVH                  | Strasburgo, France   |
+| TURBOFLAKES.IO       | COLO - Net Solutions      | Lisbon, PT             |                      |                      |
